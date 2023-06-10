@@ -1,0 +1,3 @@
+Program A and Program C are equivalent.
+
+Program B is given for positive numbers it will print "The value is positive" , "The value is zero" and "Good Bye!". 
